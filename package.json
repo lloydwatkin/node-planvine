@@ -1,6 +1,6 @@
 {
   "name": "node-planvine",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Client library for version 1 of the Planvine API",
   "main": "index.js",
   "scripts": {
